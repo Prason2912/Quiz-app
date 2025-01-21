@@ -32,7 +32,7 @@ This project is ideal for beginners learning Java, as it demonstrates key progra
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/quiz-app.git  
+   git clone https://github.com/Prason2912/quiz-app.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
