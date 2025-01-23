@@ -53,7 +53,18 @@ This project is ideal for beginners learning Java, as it demonstrates key progra
 - Submit your answers and view your score at the end.  
 
 ## Screenshots  
-(Add screenshots of your application here to give users a visual preview.)  
+
+![Screenshot 2024-11-19 182620](https://github.com/user-attachments/assets/7df0425f-b78b-4831-b856-8562b9d70d81)
+
+
+![Screenshot 2024-11-24 202831](https://github.com/user-attachments/assets/b7be6154-869c-4c5b-93f6-d18e82ff5e6b)
+
+
+![Screenshot 2024-11-24 202856](https://github.com/user-attachments/assets/72b89c17-de8e-4ff8-8cdd-5cc13d46c643)
+
+
+![Screenshot 2024-11-24 203007](https://github.com/user-attachments/assets/003bc298-25a8-496e-a33e-c5e7ef0ba8bb)
+
 
 ## Customization  
 - To add or modify questions, edit the `questions.txt` file (or the relevant file/class in your project).  
@@ -62,8 +73,6 @@ This project is ideal for beginners learning Java, as it demonstrates key progra
 ## Contributing  
 Contributions are welcome! Feel free to submit a pull request or report issues.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
 
 ## Acknowledgments  
 - Inspired by the need for an engaging and simple quiz application.  
